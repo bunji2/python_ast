@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
 #
-# python スクリプトの AST ツリーを dot 形式でダンプするサンプルスクリプト
+# python スクリプトの AST ツリーを Graphviz を使って PNG に
+# レンダリングするサンプルスクリプト
 #
 
 dot_exe = "/opt/graphviz/bin/dot.exe"
