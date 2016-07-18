@@ -1,4 +1,4 @@
-# ��
+# 例
 
 ```
 C:\work\ast\sample>type fact.py
@@ -15,8 +15,8 @@ C:\work\ast\sample>python ..\dump_ast_png.py fact.py
 Saved dot in fact.py.dot
 Saved png in fact.py.png
 
-C:\work\ast\sample>
-
 ```
+
+レンダリングされた AST ツリーの画像 fact.py.png を以下に示す。
 
 ![fact.py.png](fact.py.png)
