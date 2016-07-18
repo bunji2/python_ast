@@ -1,3 +1,3 @@
 # python_ast
 
-Python �� AST ���g���Ă݂�B
+Python の AST を使ってみる。
